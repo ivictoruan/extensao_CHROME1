@@ -1,0 +1,10 @@
+{
+    "name":"CaixaALTA",
+    "version":"1.0",
+    "description":"Extensão que transorma texto em caixa alta.",
+    "browser_action":{
+        "default_popup":"index.html"
+    },
+    "manifest_version":2
+
+}
